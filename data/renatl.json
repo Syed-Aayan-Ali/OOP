@@ -1,0 +1,9 @@
+[
+    {
+        "username": "cust1",
+        "car_id": "CAR001",
+        "start_date": "2025-05-01",
+        "end_date": "2025-05-05",
+        "cost": 8000
+    }
+]

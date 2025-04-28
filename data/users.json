@@ -1,0 +1,110 @@
+[
+    {
+        "username": "admin1",
+        "password": "adminpass",
+        "first_name": "Alice",
+        "last_name": "Admin",
+        "address": "Admin Street",
+        "balance": 10000,
+        "role": "admin"
+    },
+    {
+        "username": "cust1",
+        "password": "custpass",
+        "first_name": "Bob",
+        "last_name": "Customer",
+        "address": "Customer Avenue",
+        "balance": 3000,
+        "role": "customer"
+    },
+    {
+        "username": "bbb",
+        "password": "123",
+        "first_name": "aaa",
+        "last_name": "lll",
+        "address": "kkkk",
+        "balance": 2000.0,
+        "role": "admin"
+    },
+    {
+        "username": "aayan",
+        "password": "123",
+        "first_name": "syed",
+        "last_name": "ali",
+        "address": "abcd",
+        "balance": 2000.0,
+        "role": "admin"
+    },
+    {
+        "username": "abcd",
+        "password": "1234",
+        "first_name": "kkk",
+        "last_name": "llll",
+        "address": "oooo",
+        "balance": 3000.0,
+        "role": "admin"
+    },
+    {
+        "username": "q",
+        "password": "q",
+        "first_name": "q",
+        "last_name": "q",
+        "address": "q",
+        "balance": 2000.0,
+        "role": "customer"
+    },
+    {
+        "username": "s",
+        "password": "q",
+        "first_name": "q",
+        "last_name": "q",
+        "address": "q",
+        "balance": 2000.0,
+        "role": "customer"
+    },
+    {
+        "username": "a",
+        "password": "Abcd@3",
+        "first_name": "a",
+        "last_name": "a",
+        "address": "a",
+        "balance": 2000.0,
+        "role": "customer"
+    },
+    {
+        "username": "w",
+        "password": "wasd#4",
+        "first_name": "w",
+        "last_name": "w",
+        "address": "w",
+        "balance": 2000.0,
+        "role": "admin"
+    },
+    {
+        "username": "tt",
+        "password": "Wasd#4",
+        "first_name": "w",
+        "last_name": "w",
+        "address": "w",
+        "balance": 2000.0,
+        "role": "customer"
+    },
+    {
+        "username": "ahmed",
+        "password": "ali@123",
+        "first_name": "a",
+        "last_name": "a",
+        "address": "a",
+        "balance": 3000.0,
+        "role": "customer"
+    },
+    {
+        "username": "ali",
+        "password": "Ali@123",
+        "first_name": "a",
+        "last_name": "a",
+        "address": "a",
+        "balance": 3000.0,
+        "role": "customer"
+    }
+]

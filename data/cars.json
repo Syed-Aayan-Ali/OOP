@@ -1,0 +1,26 @@
+[
+    {
+        "car_id": "CAR001",
+        "brand": "Toyota",
+        "model": "Corolla",
+        "price_per_day": 2000,
+        "seating_capacity": 5,
+        "is_available": true
+    },
+    {
+        "car_id": "CAR002",
+        "brand": "Honda",
+        "model": "Civic",
+        "price_per_day": 2500,
+        "seating_capacity": 5,
+        "is_available": true
+    },
+    {
+        "car_id": "CAR003",
+        "brand": "Tesla",
+        "model": "Model 3",
+        "price_per_day": 5000,
+        "seating_capacity": 5,
+        "is_available": true
+    }
+]
